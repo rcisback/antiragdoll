@@ -1,0 +1,7 @@
+while true and task.wait() do
+    
+    game:GetService("Players").LocalPlayer.Character.Remotes.Unragdoll:InvokeServer()
+
+
+    
+end
